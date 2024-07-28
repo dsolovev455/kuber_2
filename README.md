@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Базовые объекты K8S»
+# Домашнее задание к занятию «Базовые объекты K8S» Соловьев Д.В.
 1. Manifest файл: [pod.yml](./kubernetes%20manifests/pod.yml)  
    Pod запущен:  
    ![get pods](./pictures/get%20pods.PNG)
